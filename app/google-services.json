@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742601168223",
+    "project_id": "task-3-fb194",
+    "storage_bucket": "task-3-fb194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742601168223:android:2e0a5ac6689113102612ea",
+        "android_client_info": {
+          "package_name": "com.nirbhay.task3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742601168223-55tl3pso4q0cqggmb04var7p5tsr5ssg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0yRWW4kZOEjixCTIeH_jVwujEzvGDyYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742601168223-55tl3pso4q0cqggmb04var7p5tsr5ssg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
